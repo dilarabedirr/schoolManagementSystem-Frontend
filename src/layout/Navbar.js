@@ -5,7 +5,7 @@ export default function Navbar() {
     <div>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="/">
             School Management System
           </a>
           <button

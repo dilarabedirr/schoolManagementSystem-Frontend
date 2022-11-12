@@ -46,10 +46,10 @@ export default function HomeClassroomType() {
             ))}
           </tbody>
         </table>
+        <Link class="btn btn-success m-2" to="/addClassroomType">
+          Sınıf Tipi Ekle
+        </Link>
       </div>
-      <Link class="btn btn-success" to="/addClassroomType">
-        Sınıf Tipi Ekle
-      </Link>
     </div>
   );
 }
